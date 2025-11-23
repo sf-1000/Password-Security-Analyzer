@@ -46,9 +46,7 @@ strengths.
 ### Hashing Implemented
 
 -   SHA-256 (current)
--   Argon2 (coming soon)
 -   BCrypt (coming soon)
--   Salted SHA (coming soon)
 
 ## 🚀 Running the Project
 
