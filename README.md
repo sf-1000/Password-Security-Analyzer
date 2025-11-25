@@ -95,8 +95,4 @@ strengths.
 -   PDF report export\
 -   Password generator
 
-## 👨‍💻 Author
 
-**Simileoluwa Fagbenro**\
-3rd Year Computer Security Student\
-GitHub: https://github.com/sf-1000
